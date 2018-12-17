@@ -84,6 +84,11 @@
       "name": "Postman",
       "image": "images/techs/postman.png",
       "link": "https://www.getpostman.com/"
+    },
+    {
+      "name": "React",
+      "image": "images/techs/react-original-wordmark.svg",
+      "link": "https://reactjs.org/"
     }
   ]
 }

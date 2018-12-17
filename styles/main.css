@@ -4,10 +4,10 @@
 }
 
 p {
-  font-family: 'comic sans', sans-serif;
 }
 
 html, body {
+  font-family: 'IBM Plex Sans', sans-serif;
     max-width: 100%;
     overflow-x: hidden;
     background: lightgray;
@@ -39,9 +39,19 @@ blockquote{
   color: var(--accent);
 }
 
+.offset {
+position: relative;
+top: -100px;
+display: block;
+}
+
 #cohort22{
     display: inline-block;
     color: var(--accent);
+}
+.section-header {
+  background-color: var(--accent);
+  color: white;
 }
 
 #jumbheader{
