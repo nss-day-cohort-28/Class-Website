@@ -28,8 +28,8 @@
         },
         {
             "id": 17,
-            "firstName": "Jesse",
-            "lastName": "Page",
+            "firstName": "Sam",
+            "lastName": "Webber",
             "reelThemIn": "Software Developer | Sound Designer | Sandwich Devotee",
             "bio": "<p>I am a sound designer jumping head-first into the world of coding! After years of pursuing and studying audio production, I have switched my focus to software development, because of the opportunity for constantly learning and problem solving. Nashville Software School has shaped me to think like a software developer. Beyond that, the program has taught me how to work in a group environment and the importance of writing code that not only executes correctly, but is readable to others.</p><p> I also have an uncanny ability to find the perfect place for lunch!</p>",
             "github": "https://github.com/JPage4",

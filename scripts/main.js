@@ -45,15 +45,19 @@ function cohortMembers(list) {
     }
     studentContact += `</div>`
 
-    let studentInfo = `<div class="col-md-3 cohortMems">
+    let studentInfo = `<div class="col-sm-3 cohortMems d-flex flex-column ">
+      <div class="m-2  h-100 d-flex flex-column">
           <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
-          <div class="card-body">
-            <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`
+          <div class="card-body d-flex flex-column justify-content-between">
+          <div>
+            <h4 class="card-title title-font student-name">${item.firstName} ${item.lastName}</h4>`
     //if student didn't provide a reelthemin quote then nothing is displayed
     if (item.reelThemIn != null) {
-      studentInfo += `<p class="card-text">${item.reelThemIn}</p>`
+      studentInfo += `<p class="card-text">${item.reelThemIn}</p></div>`
+    } else{
+      studentInfo += `</div>`
     }
-    studentInfo += studentContact
+    studentInfo += `<div class = "mt-2" >${studentContact}`
 
     //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
     if(item.bio != null){
@@ -61,13 +65,17 @@ function cohortMembers(list) {
     studentInfo += `
             <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#cohortMember${item.id}">
            Learn More!
-          </button></center>
+          </button>
+
+          </center>
+          </div>
+          </div>
           </div>
         </div>`
     //modal info
     studentInfo +=`
-        <div class="modal fade" id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
-        <div class="modal-dialog" role="document">
+        <div class="modal fade " id="cohortMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="cohortMember${item.id}Label" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
           <div class="modal-content">
             <div class="modal-header">
            <h5 class="modal-title title-font" id="cohortMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
@@ -84,13 +92,13 @@ function cohortMembers(list) {
 
 
     studentInfo += `
-      
+
     ${item.bio}
     </div>
     <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
       Back
               </button></center>
-            
+
           </div >
         </div >
       </div > `;
