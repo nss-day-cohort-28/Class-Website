@@ -1,13 +1,17 @@
+:root{
+  --accent: #36454f
+
+}
+
 p {
-  font-family: 'Barlow', sans-serif;
 }
 
 html, body {
+  font-family: 'IBM Plex Sans', sans-serif;
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: lightgray;
     background-size: 100%;
-    background-color: black;
 }
 
 blockquote{
@@ -31,14 +35,28 @@ blockquote{
   margin-right: 2em;
 }
 
+.student-name {
+  color: var(--accent);
+}
+
+.offset {
+position: relative;
+top: -100px;
+display: block;
+}
+
 #cohort22{
     display: inline-block;
-    color: #238193;
+    color: var(--accent);
+}
+.section-header {
+  background-color: var(--accent);
+  color: white;
 }
 
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
+    background-color: var(--accent) !important;
     color: lightgray;
 
 }
@@ -107,7 +125,7 @@ main {
     margin-top: -55px;
     background: white;
     padding:20px;
-    border-radius: 20px;
+      /* border-radius: 20px; */
 }
 
 .techs{
@@ -125,8 +143,7 @@ main {
   }
 
 .card-img-top{
-    border-top-left-radius: 10px;
-    border-top-right-radius: 10px;
+
   }
 
 .col,
@@ -148,7 +165,7 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: var(--accent);
   }
   .contactIcons:hover{
       transform: scale(1.2);
@@ -156,14 +173,15 @@ main {
 
   .modal-header{
     background-color: lightgray!important;
-    color: #238193;
+    color:var(--accent);
+
   }
 
   .modal-body img{
     width: 50%;
     height: 50%;
-    box-shadow: 3px 3px 5px #cacaca;
-    border-radius: 10px;
+    /* box-shadow: 3px 3px 5px #cacaca; */
+    /* border-radius: 10px; */
   }
 
   .backButton{
@@ -173,26 +191,31 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color: var(--accent)!important;
     color: white;
 }
 
 #demo-date {
     text-align: center;
-    color: #238193!important;
+    color: var(--accent)!important;
 }
 
 button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: var(--accent)!important;
+    border-color: var(--accent)!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: var(--accent)!important;
+
+}
+
+.card-body {
+  background: white;
 }
 
 /* adjusts size of contact icons depending on size of card */
@@ -205,7 +228,7 @@ button{
 @media (min-width: 768px) and (max-width: 991px){
     .fa-3x{
         font-size: 2em!important;
-      }    
+      }
 }
 
 

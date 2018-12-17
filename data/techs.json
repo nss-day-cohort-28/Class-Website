@@ -6,9 +6,14 @@
       "link": "https://www.javascript.com/"
     },
     {
-      "name": "AngularJS",
-      "image": "images/techs/angularjs.png",
-      "link": "https://angularjs.org/"
+      "name": "Python",
+      "image": "images/techs/python-original.svg",
+      "link": "https://www.python.org/"
+    },
+    {
+      "name": "Django",
+      "image": "images/techs/django-original.svg",
+      "link": "https://www.djangoproject.com/"
     },
     {
       "name": "jQuery",
@@ -41,11 +46,6 @@
       "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3"
     },
     {
-      "name": "Sass",
-      "image": "images/techs/sass.png",
-      "link": "https://sass-lang.com/"
-    },
-    {
       "name": "Bootstrap",
       "image": "images/techs/bootstrap.png",
       "link": "https://getbootstrap.com/"
@@ -54,16 +54,6 @@
       "name": "Browserify",
       "image": "images/techs/browserify.png",
       "link": "http://browserify.org/"
-    },
-    {
-      "name": "Firebase",
-      "image": "images/techs/firebase.png",
-      "link": "https://firebase.google.com"
-    },
-    {
-      "name": "Materialize",
-      "image": "images/techs/materialize.png",
-      "link": "http://materializecss.com/"
     },
     {
       "name": "NPM",
@@ -86,34 +76,19 @@
       "link": "https://code.visualstudio.com/"
     },
     {
-      "name": "C#",
-      "image": "images/techs/csharp.png",
-      "link": "https://docs.microsoft.com/en-us/dotnet/csharp/"
-    },
-    {
-      "name": ".NET Core",
-      "image": "images/techs/dotnetcore.png",
-      "link": "https://www.microsoft.com/net/"
-    },
-    {
-      "name": "Visual Studio",
-      "image": "images/techs/VisualStudio.png",
-      "link": "https://www.visualstudio.com/vs/"
-    },
-    {
-      "name": ".Net MVC",
-      "image": "images/techs/aspnetMVC.png",
-      "link": "https://www.asp.net/mvc"
-    },
-    {
       "name": "ES lint",
       "image": "images/techs/eslint.png",
       "link": "https://eslint.org/"
     },
     {
-      "name": "UglifyJs",
-      "image": "images/techs/uglify.png",
-      "link": "https://www.npmjs.com/package/uglifyjs"
+      "name": "Postman",
+      "image": "images/techs/postman.png",
+      "link": "https://www.getpostman.com/"
+    },
+    {
+      "name": "React",
+      "image": "images/techs/react-original-wordmark.svg",
+      "link": "https://reactjs.org/"
     }
   ]
 }
