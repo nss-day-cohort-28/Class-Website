@@ -44,7 +44,7 @@
       "firstName": "Brad",
       "lastName": "Davis",
       "reelThemIn": "If there is a problem. Yo, I'll solve it. Check out my site while my repo's evolving. -Vanilla Ice (sort of)",
-      "bio": "",
+      "bio": "The only man who makes no mistakes is the man who never does anything. Do not be afraid to make mistakes providing you do not make the same one twice. - Theodore Roosevelt",
       "github": "https://github.com/braddavistech" ,
       "linkedIn":"https://www.linkedin.com/in/braddavistech/",
       "portfolio":"https://www.braddavistech.com" ,
@@ -60,7 +60,7 @@
       "bio": "",
       "github": "https://github.com/BryanNilsen" ,
       "linkedIn":"https://www.linkedin.com/in/bryan-nilsen/",
-      "portfolio":"" ,
+      "portfolio":"www.bryannilsen.com" ,
       "email": "bryannilsen@gmail.com",
       "proImg": "images/classmates/BryanNilsen.jpg",
       "funImg": "images/classmates/BryanNilsen_fun.jpg"
@@ -99,7 +99,7 @@
       "bio": "I'm no stranger to playing many roles, both onstage and off. After years as an actor and office administrator, I turned to my love of tech for a new part. I enjoy building software that improves the quality of life for a diverse range of users and am especially interested in XR development, both practical and game related. With my background as an actor, storyteller and casual graphic designer, I believe that UX, UI, and accessibility are pivotal to an application's success.",
       "github": "https://github.com/CurtainUp" ,
       "linkedIn":"https://www.linkedin.com/in/elysedawson/",
-      "portfolio":"" ,
+      "portfolio":"https://curtainup.github.io/" ,
       "email": "dawson.elyse@gmail.com",
       "proImg": "images/classmates/ElyseDawson.jpg",
       "funImg": "images/classmates/ElyseDawson_fun.jpg"
@@ -140,8 +140,8 @@
       "linkedIn":"https://www.linkedin.com/in/johnnathanwood/",
       "portfolio":"www.johnnathanwood.com" ,
       "email": "johnnathanwood@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/JohnWood.jpg",
+      "funImg": "images/classmates/JohnWood_fun.jpg"
     },
     {
       "id": 12,
@@ -238,11 +238,11 @@
       "id": 19,
       "firstName": "Brendan",
       "lastName": "McCray",
-      "reelThemIn": "",
-      "bio": "",
+      "reelThemIn": "images/classmates/BrendanMcCray_ShortQuote.png",
+      "bio": "While working in the mining industry, I saw first-hand how powerful and useful the digital tools were, and I wanted to get my hands dirty (dirtier?). My responsibilities revolved around data - so I decided to pursue new skills to enhance my ability to visualize and structure it. Software development has given me a new creative edge and a future of challenging, yet enjoyable, problems to solve. It has truly become my passion.",
       "github": "https://github.com/rbmccr" ,
       "linkedIn":"https://www.linkedin.com/in/brendan-mccray/",
-      "portfolio":"" ,
+      "portfolio":"https://www.brendanmccray.com/" ,
       "email": "rbmccr@gmail.com",
       "proImg": "images/classmates/BrendanMcCray.jpg",
       "funImg": "images/classmates/BrendanMcCray_fun.jpg"
@@ -264,7 +264,7 @@
       "id": 21,
       "firstName": "Sebastian",
       "lastName": "Civarolo",
-      "reelThemIn": "",
+      "reelThemIn": "I’ll never return an empty Promise()",
       "bio": "I am a former graphic designer that discovered my love for code while teaching myself as I built websites for a variety of clients including non-profit organizations and small businesses at my last job. I decided to transition into software development because I love that there is always something new to learn and being challenged solving new problems with code.",
       "github": "https://github.com/scivarolo" ,
       "linkedIn":"https://www.linkedin.com/in/sebastiancivarolo",
