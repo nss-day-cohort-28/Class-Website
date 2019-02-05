@@ -219,7 +219,7 @@
       "portfolio":"" ,
       "email": "rjlancaster@gmail.com",
       "proImg": "",
-      "funImg": ""
+      "funImg": "images/classmates/RichardLancaster_fun.jpg"
     },
     {
       "id": 18,
@@ -231,8 +231,8 @@
       "linkedIn":"https://www.linkedin.com/in/robby-hecht",
       "portfolio":"" ,
       "email": "robbyhecht@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/RobbyHecht.jpg",
+      "funImg": "images/classmates/RobbyHecht_fun.jpg"
     },
     {
       "id": 19,
@@ -244,8 +244,8 @@
       "linkedIn":"https://www.linkedin.com/in/brendan-mccray/",
       "portfolio":"" ,
       "email": "rbmccr@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/BrendanMcCray.jpg",
+      "funImg": "images/classmates/BrendanMcCray_fun.jpg"
     },
     {
       "id": 20,
@@ -257,8 +257,8 @@
       "linkedIn":"https://www.linkedin.com/in/samuel-webber-808476120/",
       "portfolio":"" ,
       "email": "samuelwebber19@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/SamuelWebber.jpg",
+      "funImg": "images/classmates/SamuelWebber_fun.jpg"
     },
     {
       "id": 21,
@@ -270,8 +270,8 @@
       "linkedIn":"https://www.linkedin.com/in/sebastiancivarolo",
       "portfolio":"https://sebastiancivarolo.com" ,
       "email": "scivarolo@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/SebastianCivarolo.jpg",
+      "funImg": "images/classmates/SebastianCivarolo_fun.jpg"
     },
     {
       "id": 22,
@@ -283,8 +283,8 @@
       "linkedIn":"https://www.linkedin.com/in/zacjones91/",
       "portfolio":"" ,
       "email": "zacjones91@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/ZacJones.jpg",
+      "funImg": "images/classmates/ZacJones_fun.jpg"
     }
   ]
 }
