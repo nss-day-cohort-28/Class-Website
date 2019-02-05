@@ -10,8 +10,8 @@
       "linkedIn":"https://www.linkedin.com/in/alfonso-miranda/",
       "portfolio":"" ,
       "email": "gabmin21@hotmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/AlfonsoMiranda.jpg",
+      "funImg": "images/classmates/AlfonsoMiranda_fun.jpg"
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
       "linkedIn":"https://www.linkedin.com/in/andrew-herring-065a85162/",
       "portfolio":"" ,
       "email": "andrewoherring@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/AndrewHerring.jpg",
+      "funImg": "images/classmates/AndrewHerring_fun.jpg"
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
       "portfolio":"" ,
       "email": "amazoradi@gmail.com",
       "proImg": "",
-      "funImg": ""
+      "funImg": "images/classmates/AustinZoradi_fun.jpg"
     },
     {
       "id": 4,
@@ -62,8 +62,8 @@
       "linkedIn":"https://www.linkedin.com/in/bryan-nilsen/",
       "portfolio":"" ,
       "email": "bryannilsen@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/BryanNilsen.jpg",
+      "funImg": "images/classmates/BryanNilsen_fun.jpg"
     },
     {
       "id": 6,
@@ -88,8 +88,8 @@
       "linkedIn":"https://www.linkedin.com/in/dillon-williams-software-developer/",
       "portfolio":"" ,
       "email": "dillonwilliamsail@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/DillonWilliams.jpg",
+      "funImg": "images/classmates/DillonWilliams_fun.jpg"
     },
     {
       "id": 8,
@@ -101,8 +101,8 @@
       "linkedIn":"https://www.linkedin.com/in/elysedawson/",
       "portfolio":"" ,
       "email": "dawson.elyse@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/ElyseDawson.jpg",
+      "funImg": "images/classmates/ElyseDawson_fun.jpg"
     },
     {
       "id": 9,
@@ -114,8 +114,8 @@
       "linkedIn":"https://www.linkedin.com/in/jase-hackman-69a16261/",
       "portfolio":"" ,
       "email": "jasehackman@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/JaseHackman.jpg",
+      "funImg": "images/classmates/JaseHackman_fun.jpg"
     },
     {
       "id": 10,
@@ -127,8 +127,8 @@
       "linkedIn":"https://www.linkedin.com/in/jessicacbarnett/",
       "portfolio":"" ,
       "email": "jessica.barnett8219@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/JessicaBarnett.jpg",
+      "funImg": "images/classmates/JessicaBarnett_fun.jpg"
     },
     {
       "id": 11,
@@ -145,19 +145,6 @@
     },
     {
       "id": 12,
-      "firstName": "Justina",
-      "lastName": "Vickers (Larson)",
-      "reelThemIn": "",
-      "bio": "",
-      "github": "https://github.com/justinavickers" ,
-      "linkedIn":"https://www.linkedin.com/in/justina-vickers-03624093/",
-      "portfolio":"" ,
-      "email": "justinav38@gmail.com",
-      "proImg": "",
-      "funImg": ""
-    },
-    {
-      "id": 13,
       "firstName": "Kelly",
       "lastName": "Morin",
       "reelThemIn": "",
@@ -166,11 +153,11 @@
       "linkedIn":"https://www.linkedin.com/in/kellymorin/",
       "portfolio":"" ,
       "email": "kmorin06@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/KellyMorin.jpg",
+      "funImg": "images/classmates/KellyMorin_fun.jpg"
     },
     {
-      "id": 14,
+      "id": 13,
       "firstName": "Lesley",
       "lastName": "Boyd",
       "reelThemIn": "",
@@ -180,49 +167,10 @@
       "portfolio":"" ,
       "email": "lesley.a.boyd1@gmail.com",
       "proImg": "",
-      "funImg": ""
+      "funImg": "images/classmates/LesleyBoyd_fun.jpg"
     },
     {
-      "id": 15,
-      "firstName": "Max",
-      "lastName": "Milner",
-      "reelThemIn": "",
-      "bio": "",
-      "github": "https://github.com/MaxMilner" ,
-      "linkedIn":"https://www.linkedin.com/in/max-milner-125063176/",
-      "portfolio":"" ,
-      "email": "maxmilner31@yahoo.com",
-      "proImg": "",
-      "funImg": ""
-    },
-    {
-      "id": 16,
-      "firstName": "Nicholas",
-      "lastName": "Wessel",
-      "reelThemIn": "",
-      "bio": "",
-      "github": "https://github.com/wesseln1" ,
-      "linkedIn":"https://www.linkedin.com/in/nicholas-wessel-a1ab3a139/",
-      "portfolio":"" ,
-      "email": "nwessel429@gmail.com",
-      "proImg": "",
-      "funImg": ""
-    },
-    {
-      "id": 17,
-      "firstName": "Noah",
-      "lastName": "Woods",
-      "reelThemIn": "",
-      "bio": "",
-      "github": "https://github.com/noahwoods" ,
-      "linkedIn":"https://www.linkedin.com/in/noah-woods-219909172/",
-      "portfolio":"" ,
-      "email": "noahwoods@gmail.com",
-      "proImg": "",
-      "funImg": ""
-    },
-    {
-      "id": 18,
+      "id": 14,
       "firstName": "Nolan",
       "lastName": "Little",
       "reelThemIn": "",
@@ -231,11 +179,11 @@
       "linkedIn":"https://www.linkedin.com/in/nolan-little/",
       "portfolio":"" ,
       "email": "little.nolan@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/NolanLittle.jpg",
+      "funImg": "images/classmates/NolanLittle_fun.jpg"
     },
     {
-      "id": 19,
+      "id": 15,
       "firstName": "Ousama",
       "lastName": "Elayan",
       "reelThemIn": "",
@@ -244,11 +192,11 @@
       "linkedIn":"https://www.linkedin.com/in/ousama-elayan/",
       "portfolio":"" ,
       "email": "ousamasama@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/OusamaElayan.jpg",
+      "funImg": "images/classmates/OusamaElayan_fun.jpg"
     },
     {
-      "id": 20,
+      "id": 16,
       "firstName": "Rachel",
       "lastName": "Daniel",
       "reelThemIn": "",
@@ -257,11 +205,11 @@
       "linkedIn":"https://www.linkedin.com/in/rachel-daniel-nashville/",
       "portfolio":"" ,
       "email": "rachdaniel88@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/RachelDaniel.jpg",
+      "funImg": "images/classmates/RachelDaniel_fun.jpg"
     },
     {
-      "id": 21,
+      "id": 17,
       "firstName": "Richard",
       "lastName": "Lancaster",
       "reelThemIn": "",
@@ -274,7 +222,7 @@
       "funImg": ""
     },
     {
-      "id": 22,
+      "id": 18,
       "firstName": "Robby",
       "lastName": "Hecht",
       "reelThemIn": "",
@@ -287,7 +235,7 @@
       "funImg": ""
     },
     {
-      "id": 23,
+      "id": 19,
       "firstName": "Brendan",
       "lastName": "McCray",
       "reelThemIn": "",
@@ -300,7 +248,7 @@
       "funImg": ""
     },
     {
-      "id": 24,
+      "id": 20,
       "firstName": "Samuel",
       "lastName": "Webber",
       "reelThemIn": "",
@@ -313,7 +261,7 @@
       "funImg": ""
     },
     {
-      "id": 25,
+      "id": 21,
       "firstName": "Sebastian",
       "lastName": "Civarolo",
       "reelThemIn": "",
@@ -326,7 +274,7 @@
       "funImg": ""
     },
     {
-      "id": 26,
+      "id": 22,
       "firstName": "Zac",
       "lastName": "Jones",
       "reelThemIn": "",
