@@ -49,11 +49,24 @@
       "linkedIn":"https://www.linkedin.com/in/braddavistech/",
       "portfolio":"https://www.braddavistech.com" ,
       "email": "brad@braddavistech.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/BradDavis.jpg",
+      "funImg": "images/classmates/BradDavis.jpg"
     },
     {
       "id": 5,
+      "firstName": "Brendan",
+      "lastName": "McCray",
+      "reelThemIn": "SELECT * FROM People WHERE People.Skill = 'Rocket League';",
+      "bio": "While working in the mining industry, I saw first-hand how powerful and useful the digital tools were, and I wanted to get my hands dirty (dirtier?). My responsibilities revolved around data - so I decided to pursue new skills to enhance my ability to visualize and structure it. Software development has given me a new creative edge and a future of challenging, yet enjoyable, problems to solve. It has truly become my passion.",
+      "github": "https://github.com/rbmccr" ,
+      "linkedIn":"https://www.linkedin.com/in/brendan-mccray/",
+      "portfolio":"https://www.brendanmccray.com/" ,
+      "email": "rbmccr@gmail.com",
+      "proImg": "images/classmates/BrendanMcCray.jpg",
+      "funImg": "images/classmates/BrendanMcCray_fun.jpg"
+    },
+    {
+      "id": 6,
       "firstName": "Bryan",
       "lastName": "Nilsen",
       "reelThemIn": "Will code for hot chicken - Me",
@@ -66,7 +79,7 @@
       "funImg": "images/classmates/BryanNilsen_fun.jpg"
     },
     {
-      "id": 6,
+      "id": 7,
       "firstName": "Daniel",
       "lastName": "Combs",
       "reelThemIn": "fetch('http://www.codeisrad.com/${id}/${name}')",
@@ -75,11 +88,11 @@
       "linkedIn":"https://www.linkedin.com/in/daniel-combs",
       "portfolio":"https://danielreedcombs.github.io/PersonalWebsite/" ,
       "email": "danielreedcombs@gmail.com",
-      "proImg": "",
-      "funImg": ""
+      "proImg": "images/classmates/DanielCombs.jpg",
+      "funImg": "images/classmates/DanielCombs.jpg"
     },
     {
-      "id": 7,
+      "id": 8,
       "firstName": "Dillon",
       "lastName": "Williams",
       "reelThemIn": "Code...It's what's for dinner.",
@@ -92,7 +105,7 @@
       "funImg": "images/classmates/DillonWilliams_fun.jpg"
     },
     {
-      "id": 8,
+      "id": 9,
       "firstName": "Elyse",
       "lastName": "Dawson",
       "reelThemIn": "“Being an artist doesn't take much. Just everything you got.” - Hubert Selby Jr.",
@@ -105,7 +118,7 @@
       "funImg": "images/classmates/ElyseDawson_fun.jpg"
     },
     {
-      "id": 9,
+      "id": 10,
       "firstName": "Jase",
       "lastName": "Hackman",
       "reelThemIn": "Jase “The Hack Man” Hackman",
@@ -118,7 +131,7 @@
       "funImg": "images/classmates/JaseHackman_fun.jpg"
     },
     {
-      "id": 10,
+      "id": 11,
       "firstName": "Jessica",
       "lastName": "Barnett",
       "reelThemIn": "“There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind.”-Mr.Rogers",
@@ -131,7 +144,7 @@
       "funImg": "images/classmates/JessicaBarnett_fun.jpg"
     },
     {
-      "id": 11,
+      "id": 12,
       "firstName": "John",
       "lastName": "Wood",
       "reelThemIn": "“Behind every great leader there was an even greater logistician.”",
@@ -144,7 +157,7 @@
       "funImg": "images/classmates/JohnWood_fun.jpg"
     },
     {
-      "id": 12,
+      "id": 13,
       "firstName": "Kelly",
       "lastName": "Morin",
       "reelThemIn": "Does this code spark joy?",
@@ -157,7 +170,7 @@
       "funImg": "images/classmates/KellyMorin_fun.jpg"
     },
     {
-      "id": 13,
+      "id": 14,
       "firstName": "Lesley",
       "lastName": "Boyd",
       "reelThemIn": "“Not all those who wander are lost.” - J. R. R. Tolkien",
@@ -170,7 +183,7 @@
       "funImg": "images/classmates/LesleyBoyd_fun.jpg"
     },
     {
-      "id": 14,
+      "id": 15,
       "firstName": "Nolan",
       "lastName": "Little",
       "reelThemIn": "“A plan depends as much upon execution as it does upon concept.” ― Frank Herbert, Dune",
@@ -183,7 +196,7 @@
       "funImg": "images/classmates/NolanLittle_fun.jpg"
     },
     {
-      "id": 15,
+      "id": 16,
       "firstName": "Ousama",
       "lastName": "Elayan",
       "reelThemIn": "“The mighty oak tree was once a nut like me.”  -- Glenn W. Turner",
@@ -196,7 +209,7 @@
       "funImg": "images/classmates/OusamaElayan_fun.jpg"
     },
     {
-      "id": 16,
+      "id": 17,
       "firstName": "Rachel",
       "lastName": "Daniel",
       "reelThemIn": "“I knew exactly what to do. But in a much more real sense, I had no idea what to do.” - Michael Scott",
@@ -209,7 +222,7 @@
       "funImg": "images/classmates/RachelDaniel_fun.jpg"
     },
     {
-      "id": 17,
+      "id": 18,
       "firstName": "Richard",
       "lastName": "Lancaster",
       "reelThemIn": "“It does not matter how slowly you go as long as you do not stop.” — Confucius",
@@ -222,7 +235,7 @@
       "funImg": "images/classmates/RichardLancaster_fun.jpg"
     },
     {
-      "id": 18,
+      "id": 19,
       "firstName": "Robby",
       "lastName": "Hecht",
       "reelThemIn": "Git out of my dreams and into my var.",
@@ -233,19 +246,6 @@
       "email": "robbyhecht@gmail.com",
       "proImg": "images/classmates/RobbyHecht.jpg",
       "funImg": "images/classmates/RobbyHecht_fun.jpg"
-    },
-    {
-      "id": 19,
-      "firstName": "Brendan",
-      "lastName": "McCray",
-      "reelThemIn": "SELECT * FROM People WHERE People.Skill = 'Rocket League';",
-      "bio": "While working in the mining industry, I saw first-hand how powerful and useful the digital tools were, and I wanted to get my hands dirty (dirtier?). My responsibilities revolved around data - so I decided to pursue new skills to enhance my ability to visualize and structure it. Software development has given me a new creative edge and a future of challenging, yet enjoyable, problems to solve. It has truly become my passion.",
-      "github": "https://github.com/rbmccr" ,
-      "linkedIn":"https://www.linkedin.com/in/brendan-mccray/",
-      "portfolio":"https://www.brendanmccray.com/" ,
-      "email": "rbmccr@gmail.com",
-      "proImg": "images/classmates/BrendanMcCray.jpg",
-      "funImg": "images/classmates/BrendanMcCray_fun.jpg"
     },
     {
       "id": 20,
