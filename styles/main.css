@@ -10,7 +10,7 @@ html, body {
   font-family: 'IBM Plex Sans', sans-serif;
     max-width: 100%;
     overflow-x: hidden;
-    background: lightgray;
+    background: #f0f0f0;
     background-size: 100%;
 }
 
