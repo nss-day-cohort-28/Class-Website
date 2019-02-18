@@ -45,7 +45,7 @@ function cohortMembers(list) {
     }
     studentContact += `</div>`
 
-    let studentInfo = `<div class="col-sm-3 cohortMems d-flex flex-column ">
+    let studentInfo = `<div class="col-xl-3 col-lg-4 col-sm-6 cohortMems d-flex flex-column ">
       <div class="m-2  h-100 d-flex flex-column">
           <img class="card-img-top" src="${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#cohortMember${item.id}" style="cursor:pointer;">
           <div class="card-body d-flex flex-column justify-content-between">
