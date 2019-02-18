@@ -1,38 +1,37 @@
-:root{
+:root {
   --accent: #36454f
-
-}
-
-p {
 }
 
 html, body {
   font-family: 'IBM Plex Sans', sans-serif;
-    max-width: 100%;
-    overflow-x: hidden;
-    background: #f0f0f0;
-    background-size: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  background: #f0f0f0;
+  background-size: 100%;
 }
 
-blockquote{
-    margin-left: 40px;
-    margin-right: 40px;
-    background-color: #ddd;
-    padding: 2em;
+blockquote {
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #ddd;
+  padding: 2em;
 }
 
-.navbar{
-    background-color: rgb(55, 55, 56);
-    padding: 20px;
+.navbar {
+  background-color: rgb(55, 55, 56);
+  padding: 20px;
 }
-.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top{
-    background: white !important;
+
+.navbar.navbar-expand-lg.navbar-light.bg-light.fixed-top {
+  background: white !important;
 }
-.navbar-brand{
-    display: flex;
+
+.navbar-brand {
+  display: flex;
 }
+
 .nav-spacing {
-  margin-right: 2em;
+  margin-right: 1em;
 }
 
 .student-name {
@@ -40,14 +39,14 @@ blockquote{
 }
 
 .offset {
-position: relative;
-top: -100px;
-display: block;
+  position: relative;
+  top: -100px;
+  display: block;
 }
 
-#cohort22{
-    display: inline-block;
-    color: var(--accent);
+#cohort22 {
+  display: inline-block;
+  color: var(--accent);
 }
 .section-header {
   background-color: var(--accent);
@@ -55,163 +54,154 @@ display: block;
 }
 
 #jumbheader{
-    box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: var(--accent) !important;
-    color: lightgray;
-
+  box-shadow: 2px 2px 2px rgb(167, 166, 166);
+  background-color: var(--accent) !important;
+  color: lightgray;
 }
-.header-text{
-    margin: 0 auto;
-    padding-top: 10px;
-    font-weight: bold;
-    height: 50px;
-    color: white;
 
+.header-text{
+  margin: 0 auto;
+  padding-top: 10px;
+  font-weight: bold;
+  height: 50px;
+  color: white;
 }
 
 .title-font {
-    text-align: center;
-    vertical-align: middle;
+  text-align: center;
+  vertical-align: middle;
 }
 
-.logo{
-    height: 50px;
+.logo {
+  height: 50px;
 }
 
 
-.jumbotron.jumbotron-fluid{
-    background: none;
-   }
-.jumbotron.jumbotron-fluid img{
-    background: none;
-    width:100%;
-    margin-top: -80px;
-   }
+.jumbotron.jumbotron-fluid {
+  background: none;
+}
+.jumbotron.jumbotron-fluid img {
+  background: none;
+  width:100%;
+  margin-top: -80px;
+}
 
 main {
-    margin-bottom: 20px;
-    margin-top: -30px;
-    width: 100%;
-    overflow-y: hidden;
-    overflow-x: hidden;
-  }
-
-.row{
-    justify-content: center;
+  margin-bottom: 20px;
+  margin-top: -30px;
+  width: 100%;
+  overflow-y: hidden;
+  overflow-x: hidden;
 }
 
-.navbar-collapse{
-    justify-content: flex-end;
-    font-weight: bold;
-    text-transform: uppercase;
+.row {
+  justify-content: center;
 }
 
-.col-md-3.cohortMems{
-    border: 1px solid lightgray;
-    border-radius:10px;
-    box-shadow: 2px 2px 2px lightgray;
-    margin: 10px;
-    margin-bottom: 25px;
-    background: white;
+.navbar-collapse {
+  justify-content: flex-end;
+  font-weight: bold;
+  text-transform: uppercase;
 }
 
-.col-sm-2.technologies{
-    border: none;
-    border-radius: none;
-    box-shadow: none;
+.col-md-3.cohortMems {
+  border: 1px solid lightgray;
+  border-radius:10px;
+  box-shadow: 2px 2px 2px lightgray;
+  margin: 10px;
+  margin-bottom: 25px;
+  background: white;
 }
 
-.technos, .words{
-    margin-top: -55px;
-    background: white;
-    padding:20px;
-      /* border-radius: 20px; */
+.col-sm-2.technologies {
+  border: none;
+  border-radius: none;
+  box-shadow: none;
 }
 
-.techs{
-    width: 70px;
-    margin: 20px 0px;
-  }
+.technos, .words {
+  margin-top: -55px;
+  background: white;
+  padding:20px;
+}
 
-.words{
-    padding:50px;
+.techs {
+  width: 70px;
+  margin: 20px 0px;
+}
+
+.words {
+  padding:50px;
 }
 
 .no-gutters {
-    margin-right: 0;
-    margin-left: 0;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.studentContact {
+  display: flex;
+  justify-content: space-evenly;
+  -webkit-justify-content: space-evenly;
+  margin-bottom: .75rem;
+}
+
+@media (min-width:576px) {
+
+  .modal .studentContact {
+    justify-content: flex-start;
   }
 
-.card-img-top{
-
+  .modal .studentContact .contactIcons {
+    margin-right: 20px;
   }
+}
 
-.col,
-[class*="col-"] {
-    padding-right: 0;
-    padding-left: 0;
-  }
+.contactIcons {
+  color: var(--accent);
+}
+.contactIcons:hover {
+  transform: scale(1.2);
+}
 
-.modal-body{
-    display: block;
-  }
+.modal-header {
+  background-color: rgb(238, 238, 238)!important;
+  color:var(--accent);
+}
 
-  .studentContact{
-      text-align: center;
-      display: flex;
-      justify-content: space-evenly;
-      -webkit-justify-content: space-evenly;
-      margin-bottom: .75rem;
-  }
+.modal-body img {
+  width: 300px;
+  max-width: 100%;
+}
 
-  .contactIcons{
-      color: var(--accent);
-  }
-  .contactIcons:hover{
-      transform: scale(1.2);
-  }
+.backButton {
+  margin-bottom: 1.5rem;
+}
 
-  .modal-header{
-    background-color: lightgray!important;
-    color:var(--accent);
-
-  }
-
-  .modal-body img{
-    width: 50%;
-    height: 50%;
-    /* box-shadow: 3px 3px 5px #cacaca; */
-    /* border-radius: 10px; */
-  }
-
-  .backButton{
-      margin-bottom: 1.5rem;
-  }
-
-.navbar.navbar-light.bg-light.footer{
-    margin-top:10px;
-    font-size: 1em;
-    background-color: var(--accent)!important;
-    color: white;
+.navbar.navbar-light.bg-light.footer {
+  margin-top:10px;
+  font-size: 1em;
+  background-color: var(--accent)!important;
+  color: white;
 }
 
 #demo-date {
-    text-align: center;
-    color: var(--accent)!important;
+  text-align: center;
+  color: var(--accent)!important;
 }
 
-button{
-    cursor: pointer;
-}
-.btn-outline-primary{
-    color: var(--accent)!important;
-    border-color: var(--accent)!important;
+button {
+  cursor: pointer;
 }
 
-.btn-outline-primary:hover{
-    color: white!important;
-    background-color: var(--accent)!important;
+.btn-outline-primary {
+  color: var(--accent)!important;
+  border-color: var(--accent)!important;
+}
 
+.btn-outline-primary:hover {
+  color: white!important;
+  background-color: var(--accent)!important;
 }
 
 .card-body {
@@ -219,60 +209,67 @@ button{
 }
 
 /* adjusts size of contact icons depending on size of card */
-@media (min-width: 992px) and (max-width: 1200px){
-    .fa-3x{
-        font-size: 2.5em!important;
-      }
+@media (min-width: 992px) and (max-width: 1200px) {
+  .fa-3x {
+    font-size: 2.5em!important;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 991px){
-    .fa-3x{
-        font-size: 2em!important;
-      }
+  .fa-3x {
+    font-size: 2em!important;
+  }
 }
-
 
 @media (max-width: 900px) {
 
-    /* body {
-        background: url("../assets/images/bg.jpg") repeat;
-    } */
-    .jumbotron.jumbotron-fluid img{
-        background: white;
-        margin-top:30px;
-       }
-       .jumbotron.jumbotron-fluid.sm-width{
-        width: 100%;
-    }
-       .header-text{
-        margin: 0 auto;
-        height: 30px;
-       }
-       .header-text h2{
-        font-size: 1.5em;
-        margin-top: -10px;
-       }
-       .modal-body{
-        display: block;
-      }
-      .modal-content {
-        width: 100%;
-    }
-       .modal-body img{
-        width: 100%;
-      }
-      main {
-        margin-bottom: 100px;
-        margin-top: -50px;
-        width: 100%
-      }
-      .navbar-brand img{
-        padding-right: none;
-      }
+  .jumbotron.jumbotron-fluid img {
+    background: white;
+    margin-top:30px;
+  }
+
+  .jumbotron.jumbotron-fluid.sm-width {
+    width: 100%;
+  }
+
+  .header-text {
+    margin: 0 auto;
+    height: 30px;
+  }
+
+  .header-text h2 {
+    font-size: 1.5em;
+    margin-top: -10px;
+  }
+
+  .modal-content {
+    width: 100%;
+  }
+
+  .modal-body img {
+    margin: 0 auto;
+    display: block;
+  }
+
+  main {
+    margin-bottom: 100px;
+    margin-top: -50px;
+    width: 100%
+  }
+
+  .navbar-brand img {
+    padding-right: none;
+  }
 
 }
 
-.badge-outline{
+@media (min-width: 576px) and (max-width: 900px) {
+  .modal-dialog {
+    max-width: 90%;
+  }
+}
+
+.badge-outline {
   background-color:none;
   border: 1px solid #28a745;
   color: #28a745;
