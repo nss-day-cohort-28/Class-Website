@@ -28,34 +28,7 @@
       "funImg": "images/classmates/AndrewHerring_fun.jpg",
       "hired": false
     },
-    {
-      "id": 3,
-      "firstName": "Austin",
-      "lastName": "Zoradi",
-      "reelThemIn": "“The secret of getting ahead is getting started.” Mark Twain",
-      "bio": "As a former scientist, tackling intricate, complex problems is what drives me. I have been trained to do research, gather information, run methodical tests, and analyze the data I am presented with in order to solve these problems. Through self-study and an introductory course, I found that I had a strong passion for web development. This is a field where my scientifically developed skills in problem solving and my creativity intersect. The more I was exposed to software development and the creative puzzles that came along with it, the more I couldn’t take my hands off my keyboard. I knew then that this was the career I wanted to be in.",
-      "github": "https://github.com/amazoradi" ,
-      "linkedIn":"https://www.linkedin.com/in/austin-zoradi/",
-      "portfolio":"https://www.austinzoradi.com/" ,
-      "email": "amazoradi@gmail.com",
-      "proImg": "images/classmates/AustinZoradi.jpg",
-      "funImg": "images/classmates/AustinZoradi_fun.jpg",
-      "hired": true
-    },
-    {
-      "id": 4,
-      "firstName": "Brad",
-      "lastName": "Davis",
-      "reelThemIn": "“If there is a problem. Yo, I'll solve it. Check out my site while my repo's evolving.” -Vanilla Ice (sort of)",
-      "bio": "“The only man who makes no mistakes is the man who never does anything. Do not be afraid to make mistakes providing you do not make the same one twice.” - Theodore Roosevelt",
-      "github": "https://github.com/braddavistech" ,
-      "linkedIn":"https://www.linkedin.com/in/braddavistech/",
-      "portfolio":"http://www.braddavistech.com" ,
-      "email": "brad@braddavistech.com",
-      "proImg": "images/classmates/BradDavis.jpg",
-      "funImg": "images/classmates/BradDavis.jpg",
-      "hired": true
-    },
+
     {
       "id": 5,
       "firstName": "Brendan",
@@ -307,6 +280,34 @@
       "proImg": "images/classmates/ZacJones.jpg",
       "funImg": "images/classmates/ZacJones_fun.jpg",
       "hired": false
+    },
+    {
+      "id": 3,
+      "firstName": "Austin",
+      "lastName": "Zoradi",
+      "reelThemIn": "“The secret of getting ahead is getting started.” Mark Twain",
+      "bio": "As a former scientist, tackling intricate, complex problems is what drives me. I have been trained to do research, gather information, run methodical tests, and analyze the data I am presented with in order to solve these problems. Through self-study and an introductory course, I found that I had a strong passion for web development. This is a field where my scientifically developed skills in problem solving and my creativity intersect. The more I was exposed to software development and the creative puzzles that came along with it, the more I couldn’t take my hands off my keyboard. I knew then that this was the career I wanted to be in.",
+      "github": "https://github.com/amazoradi" ,
+      "linkedIn":"https://www.linkedin.com/in/austin-zoradi/",
+      "portfolio":"https://www.austinzoradi.com/" ,
+      "email": "amazoradi@gmail.com",
+      "proImg": "images/classmates/AustinZoradi.jpg",
+      "funImg": "images/classmates/AustinZoradi_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 4,
+      "firstName": "Brad",
+      "lastName": "Davis",
+      "reelThemIn": "“If there is a problem. Yo, I'll solve it. Check out my site while my repo's evolving.” -Vanilla Ice (sort of)",
+      "bio": "“The only man who makes no mistakes is the man who never does anything. Do not be afraid to make mistakes providing you do not make the same one twice.” - Theodore Roosevelt",
+      "github": "https://github.com/braddavistech" ,
+      "linkedIn":"https://www.linkedin.com/in/braddavistech/",
+      "portfolio":"http://www.braddavistech.com" ,
+      "email": "brad@braddavistech.com",
+      "proImg": "images/classmates/BradDavis.jpg",
+      "funImg": "images/classmates/BradDavis.jpg",
+      "hired": true
     }
   ]
 }
