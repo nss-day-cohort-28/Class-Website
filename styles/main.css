@@ -271,3 +271,9 @@ button{
       }
 
 }
+
+.badge-outline{
+  background-color:none;
+  border: 1px solid #28a745;
+  color: #28a745;
+}

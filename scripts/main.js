@@ -51,12 +51,21 @@ function cohortMembers(list) {
           <div class="card-body d-flex flex-column justify-content-between">
           <div>
             <h4 class="card-title title-font student-name">${item.firstName} ${item.lastName}</h4>`
-    //if student didn't provide a reelthemin quote then nothing is displayed
+
+      // If student has accepted a job offer, insert hired badge
+      if(item.hired === true){
+        studentInfo += `<p class="mx-auto text-center"><span class="badge badge-outline">Hired</span></p>`
+      }
+
+      //if student didn't provide a reelthemin quote then nothing is displayed
     if (item.reelThemIn != null) {
       studentInfo += `<p class="card-text">${item.reelThemIn}</p></div>`
     } else{
       studentInfo += `</div>`
     }
+
+
+
     studentInfo += `<div class = "mt-2" >${studentContact}`
 
     //if a student doesn't have a bio, then the learn more button doesn't appear and a modal isn't created
