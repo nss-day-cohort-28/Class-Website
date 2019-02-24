@@ -268,20 +268,6 @@
       "hired": false
     },
     {
-      "id": 22,
-      "firstName": "Zac",
-      "lastName": "Jones",
-      "reelThemIn": "“I solemnly swear that I am up to no good.” ― Harry Potter",
-      "bio": "I started tinkering with Python when I needed a better way to control smart bulbs in my house, and that drove me to discover a passion for programming that would inspire me to leave the familiarity of my finance career and pursue software development full time. I love the freedom of creating clean and responsive front-end applications, as well as the challenging puzzles that back-end programming serves up.",
-      "github": "https://github.com/zacjones91" ,
-      "linkedIn":"https://www.linkedin.com/in/zacjones91/",
-      "portfolio":"http://www.zacjones.com" ,
-      "email": "zacjones91@gmail.com",
-      "proImg": "images/classmates/ZacJones.jpg",
-      "funImg": "images/classmates/ZacJones_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 3,
       "firstName": "Austin",
       "lastName": "Zoradi",
@@ -307,6 +293,20 @@
       "email": "brad@braddavistech.com",
       "proImg": "images/classmates/BradDavis.jpg",
       "funImg": "images/classmates/BradDavis.jpg",
+      "hired": true
+    },
+    {
+      "id": 22,
+      "firstName": "Zac",
+      "lastName": "Jones",
+      "reelThemIn": "“I solemnly swear that I am up to no good.” ― Harry Potter",
+      "bio": "I started tinkering with Python when I needed a better way to control smart bulbs in my house, and that drove me to discover a passion for programming that would inspire me to leave the familiarity of my finance career and pursue software development full time. I love the freedom of creating clean and responsive front-end applications, as well as the challenging puzzles that back-end programming serves up.",
+      "github": "https://github.com/zacjones91" ,
+      "linkedIn":"https://www.linkedin.com/in/zacjones91/",
+      "portfolio":"http://www.zacjones.com" ,
+      "email": "zacjones91@gmail.com",
+      "proImg": "images/classmates/ZacJones.jpg",
+      "funImg": "images/classmates/ZacJones_fun.jpg",
       "hired": true
     }
   ]
