@@ -44,20 +44,6 @@
       "hired": false
     },
     {
-      "id": 6,
-      "firstName": "Bryan",
-      "lastName": "Nilsen",
-      "reelThemIn": "Will code for hot chicken ― Me",
-      "bio": "I moved to Nashville so I could pursue a return to a career in web development and provide a better home life for my family. Having worked as a graphic artist and web designer in my early days out of college, life took some (amazing) twists and turns and I somehow became a court reporter in New York City, transcribing deposition and court testimony at over 225 words per minute. While I loved that experience, something was missing. My time at NSS has confirmed that web development is where I belong. I love the creativity and challenge involved with solving real-world problems and crave that rush I get when my code works as intended. Working as part of a team, the camaraderie with my fellow developers, and dishing out an endless supply of high-fives has been an added bonus!",
-      "github": "https://github.com/BryanNilsen" ,
-      "linkedIn":"https://www.linkedin.com/in/bryan-nilsen/",
-      "portfolio":"http://www.bryannilsen.com" ,
-      "email": "bryannilsen@gmail.com",
-      "proImg": "images/classmates/BryanNilsen.jpg",
-      "funImg": "images/classmates/BryanNilsen_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 7,
       "firstName": "Daniel",
       "lastName": "Combs",
@@ -293,6 +279,20 @@
       "email": "brad@braddavistech.com",
       "proImg": "images/classmates/BradDavis.jpg",
       "funImg": "images/classmates/BradDavis.jpg",
+      "hired": true
+    },
+    {
+      "id": 6,
+      "firstName": "Bryan",
+      "lastName": "Nilsen",
+      "reelThemIn": "Will code for hot chicken ― Me",
+      "bio": "I moved to Nashville so I could pursue a return to a career in web development and provide a better home life for my family. Having worked as a graphic artist and web designer in my early days out of college, life took some (amazing) twists and turns and I somehow became a court reporter in New York City, transcribing deposition and court testimony at over 225 words per minute. While I loved that experience, something was missing. My time at NSS has confirmed that web development is where I belong. I love the creativity and challenge involved with solving real-world problems and crave that rush I get when my code works as intended. Working as part of a team, the camaraderie with my fellow developers, and dishing out an endless supply of high-fives has been an added bonus!",
+      "github": "https://github.com/BryanNilsen" ,
+      "linkedIn":"https://www.linkedin.com/in/bryan-nilsen/",
+      "portfolio":"http://www.bryannilsen.com" ,
+      "email": "bryannilsen@gmail.com",
+      "proImg": "images/classmates/BryanNilsen.jpg",
+      "funImg": "images/classmates/BryanNilsen_fun.jpg",
       "hired": true
     },
     {
