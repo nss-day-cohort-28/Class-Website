@@ -142,20 +142,6 @@
       "hired": false
     },
     {
-      "id": 14,
-      "firstName": "Lesley",
-      "lastName": "Boyd",
-      "reelThemIn": "“Not all those who wander are lost.” ― J. R. R. Tolkien",
-      "bio": "I've always found great reward in helping people. Throughout my career I have held positions that supported different user groups whether it be sales teams through marketing education, operations teams through analytics and insight reporting, or individual end users through training. The roles I've held in the past were always on the edge of IT. I found myself working alongside development teams and offering up insights from the business, but wanted to know more about the technology driving innovation. This led me to deciding it was time to make a change and add more tools to my toolbox. That's how I found myself at Nashville Software School. During my time at NSS I have developed code using HTML, CSS, JavaScript, React, Python, and Django. These skills will further my passion of helping people, but this time it'll be through code.",
-      "github": "https://github.com/laboyd001" ,
-      "linkedIn":"https://www.linkedin.com/in/lesleyaboyd",
-      "portfolio":"http://www.lesleyaboyd.com" ,
-      "email": "lesley.a.boyd1@gmail.com",
-      "proImg": "images/classmates/LesleyBoyd.jpg",
-      "funImg": "images/classmates/LesleyBoyd_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 15,
       "firstName": "Nolan",
       "lastName": "Little",
@@ -279,6 +265,20 @@
       "email": "bryannilsen@gmail.com",
       "proImg": "images/classmates/BryanNilsen.jpg",
       "funImg": "images/classmates/BryanNilsen_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 14,
+      "firstName": "Lesley",
+      "lastName": "Boyd",
+      "reelThemIn": "“Not all those who wander are lost.” ― J. R. R. Tolkien",
+      "bio": "I've always found great reward in helping people. Throughout my career I have held positions that supported different user groups whether it be sales teams through marketing education, operations teams through analytics and insight reporting, or individual end users through training. The roles I've held in the past were always on the edge of IT. I found myself working alongside development teams and offering up insights from the business, but wanted to know more about the technology driving innovation. This led me to deciding it was time to make a change and add more tools to my toolbox. That's how I found myself at Nashville Software School. During my time at NSS I have developed code using HTML, CSS, JavaScript, React, Python, and Django. These skills will further my passion of helping people, but this time it'll be through code.",
+      "github": "https://github.com/laboyd001" ,
+      "linkedIn":"https://www.linkedin.com/in/lesleyaboyd",
+      "portfolio":"http://www.lesleyaboyd.com" ,
+      "email": "lesley.a.boyd1@gmail.com",
+      "proImg": "images/classmates/LesleyBoyd.jpg",
+      "funImg": "images/classmates/LesleyBoyd_fun.jpg",
       "hired": true
     },
     {
