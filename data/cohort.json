@@ -184,20 +184,6 @@
       "hired": false
     },
     {
-      "id": 17,
-      "firstName": "Rachel",
-      "lastName": "Daniel",
-      "reelThemIn": "“I knew exactly what to do. But in a much more real sense, I had no idea what to do.” ― Michael Scott",
-      "bio": "I love solving puzzles. There is a joy in the balance of creativity and logic that has been an undercurrent in all of my academic and professional endeavors. Having graduated with a BFA in Theater and a minor in Accounting, I knew I wanted to find a career that was as challenging as it was rewarding. In 2010, I joined Community Health Systems (CHS). There, as a Systems Operations Analyst, I had the opportunity to work closely with developers in gathering data about the system use for the department. After being promoted to Systems Operations Manager, my increased involvement in the development process sparked a passion for code-- particularly for being a part of the creation and improvement of technology with an emphasis on the end user. I am excited about this new journey as a software developer that brings with it the opportunity to problem-solve and learn something new each day.",
-      "github": "https://github.com/racheldaniel" ,
-      "linkedIn":"https://www.linkedin.com/in/rachel-daniel-nashville/",
-      "portfolio":"http://www.rachdaniel.com" ,
-      "email": "rachdaniel88@gmail.com",
-      "proImg": "images/classmates/RachelDaniel.jpg",
-      "funImg": "images/classmates/RachelDaniel_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 18,
       "firstName": "Richard",
       "lastName": "Lancaster",
@@ -293,6 +279,20 @@
       "email": "bryannilsen@gmail.com",
       "proImg": "images/classmates/BryanNilsen.jpg",
       "funImg": "images/classmates/BryanNilsen_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 17,
+      "firstName": "Rachel",
+      "lastName": "Daniel",
+      "reelThemIn": "“I knew exactly what to do. But in a much more real sense, I had no idea what to do.” ― Michael Scott",
+      "bio": "I love solving puzzles. There is a joy in the balance of creativity and logic that has been an undercurrent in all of my academic and professional endeavors. Having graduated with a BFA in Theater and a minor in Accounting, I knew I wanted to find a career that was as challenging as it was rewarding. In 2010, I joined Community Health Systems (CHS). There, as a Systems Operations Analyst, I had the opportunity to work closely with developers in gathering data about the system use for the department. After being promoted to Systems Operations Manager, my increased involvement in the development process sparked a passion for code-- particularly for being a part of the creation and improvement of technology with an emphasis on the end user. I am excited about this new journey as a software developer that brings with it the opportunity to problem-solve and learn something new each day.",
+      "github": "https://github.com/racheldaniel" ,
+      "linkedIn":"https://www.linkedin.com/in/rachel-daniel-nashville/",
+      "portfolio":"http://www.rachdaniel.com" ,
+      "email": "rachdaniel88@gmail.com",
+      "proImg": "images/classmates/RachelDaniel.jpg",
+      "funImg": "images/classmates/RachelDaniel_fun.jpg",
       "hired": true
     },
     {
