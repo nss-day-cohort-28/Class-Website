@@ -212,20 +212,6 @@
       "hired": false
     },
     {
-      "id": 21,
-      "firstName": "Sebastian",
-      "lastName": "Civarolo",
-      "reelThemIn": "I’ll never return an empty Promise()",
-      "bio": "I am a former graphic designer that discovered my love for code while teaching myself as I built websites for a variety of clients including non-profit organizations and small businesses at my last job. I decided to transition into software development because I love that there is always something new to learn and being challenged solving new problems with code.",
-      "github": "https://github.com/scivarolo" ,
-      "linkedIn":"https://www.linkedin.com/in/sebastiancivarolo",
-      "portfolio":"https://sebastiancivarolo.com" ,
-      "email": "scivarolo@gmail.com",
-      "proImg": "images/classmates/SebastianCivarolo.jpg",
-      "funImg": "images/classmates/SebastianCivarolo_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 3,
       "firstName": "Austin",
       "lastName": "Zoradi",
@@ -293,6 +279,20 @@
       "email": "rachdaniel88@gmail.com",
       "proImg": "images/classmates/RachelDaniel.jpg",
       "funImg": "images/classmates/RachelDaniel_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 21,
+      "firstName": "Sebastian",
+      "lastName": "Civarolo",
+      "reelThemIn": "I’ll never return an empty Promise()",
+      "bio": "I am a former graphic designer that discovered my love for code while teaching myself as I built websites for a variety of clients including non-profit organizations and small businesses at my last job. I decided to transition into software development because I love that there is always something new to learn and being challenged solving new problems with code.",
+      "github": "https://github.com/scivarolo" ,
+      "linkedIn":"https://www.linkedin.com/in/sebastiancivarolo",
+      "portfolio":"https://sebastiancivarolo.com" ,
+      "email": "scivarolo@gmail.com",
+      "proImg": "images/classmates/SebastianCivarolo.jpg",
+      "funImg": "images/classmates/SebastianCivarolo_fun.jpg",
       "hired": true
     },
     {
