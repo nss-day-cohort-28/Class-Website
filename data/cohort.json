@@ -114,20 +114,6 @@
       "hired": false
     },
     {
-      "id": 13,
-      "firstName": "Kelly",
-      "lastName": "Morin",
-      "reelThemIn": "Does this code spark joy?",
-      "bio": "As a former social media manager, I’m no stranger to adapting to rapidly changing technology and am invigorated by the challenge of consistently evaluating how a new tool or feature may create opportunities to transform how a challenge is addressed. As my skills began to grow, so did my passion for the technology driving it all. My time at NSS has provided me with the tools and skills necessary to channel my natural curiosity into business changing solutions to everyday challenges.",
-      "github": "https://github.com/kellymorin" ,
-      "linkedIn":"https://www.linkedin.com/in/kellymorin/",
-      "portfolio":"http://kellymorin.tech" ,
-      "email": "kmorin06@gmail.com",
-      "proImg": "images/classmates/KellyMorin.jpg",
-      "funImg": "images/classmates/KellyMorin_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 15,
       "firstName": "Nolan",
       "lastName": "Little",
@@ -251,6 +237,20 @@
       "email": "jasehackman@gmail.com",
       "proImg": "images/classmates/JaseHackman.jpg",
       "funImg": "images/classmates/JaseHackman_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 13,
+      "firstName": "Kelly",
+      "lastName": "Morin",
+      "reelThemIn": "Does this code spark joy?",
+      "bio": "As a former social media manager, I’m no stranger to adapting to rapidly changing technology and am invigorated by the challenge of consistently evaluating how a new tool or feature may create opportunities to transform how a challenge is addressed. As my skills began to grow, so did my passion for the technology driving it all. My time at NSS has provided me with the tools and skills necessary to channel my natural curiosity into business changing solutions to everyday challenges.",
+      "github": "https://github.com/kellymorin" ,
+      "linkedIn":"https://www.linkedin.com/in/kellymorin/",
+      "portfolio":"http://kellymorin.tech" ,
+      "email": "kmorin06@gmail.com",
+      "proImg": "images/classmates/KellyMorin.jpg",
+      "funImg": "images/classmates/KellyMorin_fun.jpg",
       "hired": true
     },
     {
