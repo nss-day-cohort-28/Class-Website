@@ -28,21 +28,6 @@
       "funImg": "images/classmates/AndrewHerring_fun.jpg",
       "hired": false
     },
-
-    {
-      "id": 5,
-      "firstName": "Brendan",
-      "lastName": "McCray",
-      "reelThemIn": "SELECT * FROM People WHERE People.Skill = 'Rocket League';",
-      "bio": "While working in the mining industry, I saw first-hand how powerful and useful the digital tools were, and I wanted to get my hands dirty (dirtier?). My responsibilities revolved around data - so I decided to pursue new skills to enhance my ability to visualize and structure it. Software development has given me a new creative edge and a future of challenging, yet enjoyable, problems to solve. It has truly become my passion.",
-      "github": "https://github.com/rbmccr" ,
-      "linkedIn":"https://www.linkedin.com/in/brendan-mccray/",
-      "portfolio":"https://www.brendanmccray.com/" ,
-      "email": "rbmccr@gmail.com",
-      "proImg": "images/classmates/BrendanMcCray.jpg",
-      "funImg": "images/classmates/BrendanMcCray_fun.jpg",
-      "hired": false
-    },
     {
       "id": 7,
       "firstName": "Daniel",
@@ -209,6 +194,20 @@
       "email": "brad@braddavistech.com",
       "proImg": "images/classmates/BradDavis.jpg",
       "funImg": "images/classmates/BradDavis.jpg",
+      "hired": true
+    },
+    {
+      "id": 5,
+      "firstName": "Brendan",
+      "lastName": "McCray",
+      "reelThemIn": "SELECT * FROM People WHERE People.Skill = 'Rocket League';",
+      "bio": "While working in the mining industry, I saw first-hand how powerful and useful the digital tools were, and I wanted to get my hands dirty (dirtier?). My responsibilities revolved around data - so I decided to pursue new skills to enhance my ability to visualize and structure it. Software development has given me a new creative edge and a future of challenging, yet enjoyable, problems to solve. It has truly become my passion.",
+      "github": "https://github.com/rbmccr" ,
+      "linkedIn":"https://www.linkedin.com/in/brendan-mccray/",
+      "portfolio":"https://www.brendanmccray.com/" ,
+      "email": "rbmccr@gmail.com",
+      "proImg": "images/classmates/BrendanMcCray.jpg",
+      "funImg": "images/classmates/BrendanMcCray_fun.jpg",
       "hired": true
     },
     {
