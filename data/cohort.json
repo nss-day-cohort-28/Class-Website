@@ -1,20 +1,6 @@
 {
   "cohort": [
     {
-      "id": 1,
-      "firstName": "Alfonso",
-      "lastName": "Miranda",
-      "reelThemIn": "“All we have to decide is what to do with the time that is given to us.” ― J.R.R. Tolkien",
-      "bio": "“The best thing to give to your enemy is forgiveness; to an opponent, tolerance; to a friend, your heart; to your child, a good example; to a father, deference; to your mother, conduct that will make her proud of you; to yourself, respect; to all others, charity. - Benjamin Franklin",
-      "github": "https://github.com/Kazathur92" ,
-      "linkedIn":"https://www.linkedin.com/in/alfonso-miranda/",
-      "portfolio": "http://www.alfonso-miranda.com/" ,
-      "email": "gabmin21@hotmail.com",
-      "proImg": "images/classmates/AlfonsoMiranda.jpg",
-      "funImg": "images/classmates/AlfonsoMiranda_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 2,
       "firstName": "Andrew",
       "lastName": "Herring",
@@ -167,6 +153,20 @@
       "proImg": "images/classmates/SamuelWebber.jpg",
       "funImg": "images/classmates/SamuelWebber_fun.jpg",
       "hired": false
+    },
+    {
+      "id": 1,
+      "firstName": "Alfonso",
+      "lastName": "Miranda",
+      "reelThemIn": "“All we have to decide is what to do with the time that is given to us.” ― J.R.R. Tolkien",
+      "bio": "“The best thing to give to your enemy is forgiveness; to an opponent, tolerance; to a friend, your heart; to your child, a good example; to a father, deference; to your mother, conduct that will make her proud of you; to yourself, respect; to all others, charity. - Benjamin Franklin",
+      "github": "https://github.com/Kazathur92" ,
+      "linkedIn":"https://www.linkedin.com/in/alfonso-miranda/",
+      "portfolio": "http://www.alfonso-miranda.com/" ,
+      "email": "gabmin21@hotmail.com",
+      "proImg": "images/classmates/AlfonsoMiranda.jpg",
+      "funImg": "images/classmates/AlfonsoMiranda_fun.jpg",
+      "hired": true
     },
     {
       "id": 3,
