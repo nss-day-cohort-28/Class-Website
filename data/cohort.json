@@ -43,20 +43,6 @@
       "hired": false
     },
     {
-      "id": 9,
-      "firstName": "Elyse",
-      "lastName": "Dawson",
-      "reelThemIn": "You down with OOP? Yeah you know me.",
-      "bio": "I'm no stranger to playing many roles, both onstage and off. After years as an actor and office administrator, I turned to my love of tech for a new part. I enjoy building software that improves the quality of life for a diverse range of users and am especially interested in XR development, both practical and game related. With my background as an actor, storyteller and casual graphic designer, I believe that UX, UI, and accessibility are pivotal to an application's success.",
-      "github": "https://github.com/CurtainUp" ,
-      "linkedIn":"https://www.linkedin.com/in/elysedawson/",
-      "portfolio":"https://curtainup.github.io/" ,
-      "email": "dawson.elyse@gmail.com",
-      "proImg": "images/classmates/ElyseDawson.jpg",
-      "funImg": "images/classmates/ElyseDawson_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 11,
       "firstName": "Jessica",
       "lastName": "Barnett",
@@ -222,6 +208,20 @@
       "email": "bryannilsen@gmail.com",
       "proImg": "images/classmates/BryanNilsen.jpg",
       "funImg": "images/classmates/BryanNilsen_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 9,
+      "firstName": "Elyse",
+      "lastName": "Dawson",
+      "reelThemIn": "You down with OOP? Yeah you know me.",
+      "bio": "I'm no stranger to playing many roles, both onstage and off. After years as an actor and office administrator, I turned to my love of tech for a new part. I enjoy building software that improves the quality of life for a diverse range of users and am especially interested in XR development, both practical and game related. With my background as an actor, storyteller and casual graphic designer, I believe that UX, UI, and accessibility are pivotal to an application's success.",
+      "github": "https://github.com/CurtainUp" ,
+      "linkedIn":"https://www.linkedin.com/in/elysedawson/",
+      "portfolio":"https://curtainup.github.io/" ,
+      "email": "dawson.elyse@gmail.com",
+      "proImg": "images/classmates/ElyseDawson.jpg",
+      "funImg": "images/classmates/ElyseDawson_fun.jpg",
       "hired": true
     },
     {
