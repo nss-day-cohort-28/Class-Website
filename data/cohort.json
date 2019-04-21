@@ -29,20 +29,6 @@
       "hired": false
     },
     {
-      "id": 8,
-      "firstName": "Dillon",
-      "lastName": "Williams",
-      "reelThemIn": "Code...It's what's for dinner.",
-      "bio": "The only thing that stands between a man and what he really wants from life is often merely the will to try it and the faith to believe that it is possible. After my son was born I realized that it would be hypocritical of me to teach him to chase his dreams if I hadn't done so myself. Growing up I was always had a strong affinity for computers but I never really considered making a career out of it. After experiencing several different careers in my young adult life, I realized I would never truly be happy until I was doing something I loved. So here I am, chasing my dream one line of code at a time.",
-      "github": "https://github.com/CosignMyCodesign" ,
-      "linkedIn":"https://www.linkedin.com/in/dillon-williams-software-developer/",
-      "portfolio":"https://www.dillon-williams.com" ,
-      "email": "dillonwilliamsail@gmail.com",
-      "proImg": "images/classmates/DillonWilliams.jpg",
-      "funImg": "images/classmates/DillonWilliams_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 12,
       "firstName": "John",
       "lastName": "Wood",
@@ -180,6 +166,20 @@
       "email": "bryannilsen@gmail.com",
       "proImg": "images/classmates/BryanNilsen.jpg",
       "funImg": "images/classmates/BryanNilsen_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 8,
+      "firstName": "Dillon",
+      "lastName": "Williams",
+      "reelThemIn": "Code...It's what's for dinner.",
+      "bio": "The only thing that stands between a man and what he really wants from life is often merely the will to try it and the faith to believe that it is possible. After my son was born I realized that it would be hypocritical of me to teach him to chase his dreams if I hadn't done so myself. Growing up I was always had a strong affinity for computers but I never really considered making a career out of it. After experiencing several different careers in my young adult life, I realized I would never truly be happy until I was doing something I loved. So here I am, chasing my dream one line of code at a time.",
+      "github": "https://github.com/CosignMyCodesign" ,
+      "linkedIn":"https://www.linkedin.com/in/dillon-williams-software-developer/",
+      "portfolio":"https://www.dillon-williams.com" ,
+      "email": "dillonwilliamsail@gmail.com",
+      "proImg": "images/classmates/DillonWilliams.jpg",
+      "funImg": "images/classmates/DillonWilliams_fun.jpg",
       "hired": true
     },
     {
