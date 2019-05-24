@@ -57,20 +57,6 @@
       "hired": false
     },
     {
-      "id": 18,
-      "firstName": "Richard",
-      "lastName": "Lancaster",
-      "reelThemIn": "“It does not matter how slowly you go as long as you do not stop.” — Confucius",
-      "bio": "Since childhood, I have held a strong passion for technology. After cultivating that passion by working nearly my entire adult career in the software sector as a Project Manager and Implementation specialist, I set a goal to make a change into a technology career that would more fully engage my mind and ignite more creativity and passion into my workday. It has been exciting to find that those goals can be met by pursuing a lifelong-learning career in programming!",
-      "github": "https://github.com/rjlancaster" ,
-      "linkedIn":"https://www.linkedin.com/in/richardjlancaster",
-      "portfolio":"https://rjlancaster.github.io" ,
-      "email": "rjlancaster@gmail.com",
-      "proImg": "images/classmates/RichardLancaster.jpg",
-      "funImg": "images/classmates/RichardLancaster_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 19,
       "firstName": "Robby",
       "lastName": "Hecht",
@@ -278,6 +264,20 @@
       "email": "rachdaniel88@gmail.com",
       "proImg": "images/classmates/RachelDaniel.jpg",
       "funImg": "images/classmates/RachelDaniel_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 18,
+      "firstName": "Richard",
+      "lastName": "Lancaster",
+      "reelThemIn": "“It does not matter how slowly you go as long as you do not stop.” — Confucius",
+      "bio": "Since childhood, I have held a strong passion for technology. After cultivating that passion by working nearly my entire adult career in the software sector as a Project Manager and Implementation specialist, I set a goal to make a change into a technology career that would more fully engage my mind and ignite more creativity and passion into my workday. It has been exciting to find that those goals can be met by pursuing a lifelong-learning career in programming!",
+      "github": "https://github.com/rjlancaster" ,
+      "linkedIn":"https://www.linkedin.com/in/richardjlancaster",
+      "portfolio":"https://rjlancaster.github.io" ,
+      "email": "rjlancaster@gmail.com",
+      "proImg": "images/classmates/RichardLancaster.jpg",
+      "funImg": "images/classmates/RichardLancaster_fun.jpg",
       "hired": true
     },
     {
