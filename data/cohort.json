@@ -29,20 +29,6 @@
       "hired": false
     },
     {
-      "id": 12,
-      "firstName": "John",
-      "lastName": "Wood",
-      "reelThemIn": "“Behind every great leader there was an even greater logistician.”",
-      "bio": "Hi, my name is John Wood. I am a United States Navy Veteran. I spent four years serving with a Marine Corps unit out of Camp Lejeune, NC. After serving in the military, I got the opportunity to manage a 14 million dollar budget for Comcast Spotlight national commercials for middle Tennessee. I worked there for a year and took the knowledge I gained and attended Austin Peay State University in Clarksville, Tennessee to pursue a supply chain management degree. I finished my sophomore year in college and am now attending Nashville Software School in Nashville, Tennessee. I am passionate about software development and what this career change has to offer.",
-      "github": "https://github.com/johnnathanwood" ,
-      "linkedIn":"https://www.linkedin.com/in/johnnathanwood/",
-      "portfolio":"http://www.johnnathanwood.com" ,
-      "email": "johnnathanwood@gmail.com",
-      "proImg": "images/classmates/JohnWood.jpg",
-      "funImg": "images/classmates/JohnWood_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 16,
       "firstName": "Ousama",
       "lastName": "Elayan",
@@ -208,6 +194,20 @@
       "email": "jessica.barnett8219@gmail.com",
       "proImg": "images/classmates/JessicaBarnett.jpg",
       "funImg": "images/classmates/JessicaBarnett_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 12,
+      "firstName": "John",
+      "lastName": "Wood",
+      "reelThemIn": "“Behind every great leader there was an even greater logistician.”",
+      "bio": "Hi, my name is John Wood. I am a United States Navy Veteran. I spent four years serving with a Marine Corps unit out of Camp Lejeune, NC. After serving in the military, I got the opportunity to manage a 14 million dollar budget for Comcast Spotlight national commercials for middle Tennessee. I worked there for a year and took the knowledge I gained and attended Austin Peay State University in Clarksville, Tennessee to pursue a supply chain management degree. I finished my sophomore year in college and am now attending Nashville Software School in Nashville, Tennessee. I am passionate about software development and what this career change has to offer.",
+      "github": "https://github.com/johnnathanwood" ,
+      "linkedIn":"https://www.linkedin.com/in/johnnathanwood/",
+      "portfolio":"http://www.johnnathanwood.com" ,
+      "email": "johnnathanwood@gmail.com",
+      "proImg": "images/classmates/JohnWood.jpg",
+      "funImg": "images/classmates/JohnWood_fun.jpg",
       "hired": true
     },
     {
