@@ -15,34 +15,6 @@
       "hired": false
     },
     {
-      "id": 7,
-      "firstName": "Daniel",
-      "lastName": "Combs",
-      "reelThemIn": "fetch('codeisrad.com/${name}')",
-      "bio": "Prior to my career change working with NSS, I was the Assistant General Manager at Climb Murfreesboro. During that time, I was able to exercise my abilities as a leader and manager obtained from my BS degree in Recreation Management, with my Minor in Leadership. I hope to bring these talents plus what Nashville Software School has taught me into the developing world, and provide my future client with the utmost professionalism and respect that they deserve.",
-      "github": "https://github.com/danielreedcombs" ,
-      "linkedIn":"https://www.linkedin.com/in/daniel-combs",
-      "portfolio":"https://danielreedcombs.github.io/PersonalWebsite/" ,
-      "email": "danielreedcombs@gmail.com",
-      "proImg": "images/classmates/DanielCombs.jpg",
-      "funImg": "images/classmates/DanielCombs.jpg",
-      "hired": false
-    },
-    {
-      "id": 16,
-      "firstName": "Ousama",
-      "lastName": "Elayan",
-      "reelThemIn": "“The mighty oak tree was once a nut like me.” ― Glenn W. Turner",
-      "bio": "As a future owner of a Corgi Ranch, I hope to use programming to sustain and fuel my dreams. For somebody that's always struggled to find a career that not only challenges me but that I simultaneously enjoy, coding thankfully fills that wedge perfectly. It's the perfect mix of frustration, fulfillment, and fun.",
-      "github": "https://github.com/ousamasama" ,
-      "linkedIn":"https://www.linkedin.com/in/ousama-elayan/",
-      "portfolio": null,
-      "email": "ousamasama@gmail.com",
-      "proImg": "images/classmates/OusamaElayan.jpg",
-      "funImg": "images/classmates/OusamaElayan_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 19,
       "firstName": "Robby",
       "lastName": "Hecht",
@@ -138,6 +110,20 @@
       "email": "bryannilsen@gmail.com",
       "proImg": "images/classmates/BryanNilsen.jpg",
       "funImg": "images/classmates/BryanNilsen_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 7,
+      "firstName": "Daniel",
+      "lastName": "Combs",
+      "reelThemIn": "fetch('codeisrad.com/${name}')",
+      "bio": "Prior to my career change working with NSS, I was the Assistant General Manager at Climb Murfreesboro. During that time, I was able to exercise my abilities as a leader and manager obtained from my BS degree in Recreation Management, with my Minor in Leadership. I hope to bring these talents plus what Nashville Software School has taught me into the developing world, and provide my future client with the utmost professionalism and respect that they deserve.",
+      "github": "https://github.com/danielreedcombs" ,
+      "linkedIn":"https://www.linkedin.com/in/daniel-combs",
+      "portfolio":"https://danielreedcombs.github.io/PersonalWebsite/" ,
+      "email": "danielreedcombs@gmail.com",
+      "proImg": "images/classmates/DanielCombs.jpg",
+      "funImg": "images/classmates/DanielCombs.jpg",
       "hired": true
     },
     {
@@ -250,6 +236,20 @@
       "email": "little.nolan@gmail.com",
       "proImg": "images/classmates/NolanLittle.jpg",
       "funImg": "images/classmates/NolanLittle_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 16,
+      "firstName": "Ousama",
+      "lastName": "Elayan",
+      "reelThemIn": "“The mighty oak tree was once a nut like me.” ― Glenn W. Turner",
+      "bio": "As a future owner of a Corgi Ranch, I hope to use programming to sustain and fuel my dreams. For somebody that's always struggled to find a career that not only challenges me but that I simultaneously enjoy, coding thankfully fills that wedge perfectly. It's the perfect mix of frustration, fulfillment, and fun.",
+      "github": "https://github.com/ousamasama" ,
+      "linkedIn":"https://www.linkedin.com/in/ousama-elayan/",
+      "portfolio": null,
+      "email": "ousamasama@gmail.com",
+      "proImg": "images/classmates/OusamaElayan.jpg",
+      "funImg": "images/classmates/OusamaElayan_fun.jpg",
       "hired": true
     },
     {
