@@ -15,20 +15,6 @@
       "hired": false
     },
     {
-      "id": 19,
-      "firstName": "Robby",
-      "lastName": "Hecht",
-      "reelThemIn": "Git out of my dreams and into my var.",
-      "bio": "Through my time as a songwriter and performer, I’ve learned that while creativity can sometimes spring to life through sudden inspiration, it’s usually best served through collaboration, preparation and an ongoing desire to learn. In software development, I’ve found a field where I can apply these same values in a new and exciting context where we harness creativity to tackle tangible, information-driven challenges.",
-      "github": "https://github.com/robbyhecht" ,
-      "linkedIn":"https://www.linkedin.com/in/robby-hecht",
-      "portfolio":"https://robbycodes.com" ,
-      "email": "robbyhecht@gmail.com",
-      "proImg": "images/classmates/RobbyHecht.jpg",
-      "funImg": "images/classmates/RobbyHecht_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 20,
       "firstName": "Samuel",
       "lastName": "Webber",
@@ -278,6 +264,20 @@
       "email": "rjlancaster@gmail.com",
       "proImg": "images/classmates/RichardLancaster.jpg",
       "funImg": "images/classmates/RichardLancaster_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 19,
+      "firstName": "Robby",
+      "lastName": "Hecht",
+      "reelThemIn": "Git out of my dreams and into my var.",
+      "bio": "Through my time as a songwriter and performer, I’ve learned that while creativity can sometimes spring to life through sudden inspiration, it’s usually best served through collaboration, preparation and an ongoing desire to learn. In software development, I’ve found a field where I can apply these same values in a new and exciting context where we harness creativity to tackle tangible, information-driven challenges.",
+      "github": "https://github.com/robbyhecht" ,
+      "linkedIn":"https://www.linkedin.com/in/robby-hecht",
+      "portfolio":"https://robbycodes.com" ,
+      "email": "robbyhecht@gmail.com",
+      "proImg": "images/classmates/RobbyHecht.jpg",
+      "funImg": "images/classmates/RobbyHecht_fun.jpg",
       "hired": true
     },
     {
