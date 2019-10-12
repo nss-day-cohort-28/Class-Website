@@ -1,34 +1,6 @@
 {
   "cohort": [
     {
-      "id": 2,
-      "firstName": "Andrew",
-      "lastName": "Herring",
-      "reelThemIn": "It's Dangerous To Code Alone",
-      "bio": "“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. - Theodore Roosevelt",
-      "github": "https://github.com/Andrew-Herring" ,
-      "linkedIn":"https://www.linkedin.com/in/andrew-herring-065a85162/",
-      "portfolio":"http://www.andrew-herring.com" ,
-      "email": "andrewoherring@gmail.com",
-      "proImg": "images/classmates/AndrewHerring.jpg",
-      "funImg": "images/classmates/AndrewHerring_fun.jpg",
-      "hired": false
-    },
-    {
-      "id": 20,
-      "firstName": "Samuel",
-      "lastName": "Webber",
-      "reelThemIn": "“The best thing about a boolean is even if you are wrong, you are only off by a bit” ― Unknown",
-      "bio": "I moved to Nashville in the Fall 2017 to attend a coding bootcamp. This has been a goal of mine since my first real experience of studying coding with my brother-in-law 4 years ago. I had experimented as a kid with CSS and HTML and my brother-in-law reminded me how challenging and fun it could be. It sparked a passion in me to creatively solve problems through coding. I wanted to study with people who could further my knowledge and prepare me with the tools to move into a career in coding. This is why I decided to take charge of my career and attend Nashville Software School.",
-      "github": "https://github.com/buffard" ,
-      "linkedIn":"https://www.linkedin.com/in/samuel-webber-808476120/",
-      "portfolio":"http://www.samuelwebber.com" ,
-      "email": "samuelwebber19@gmail.com",
-      "proImg": "images/classmates/SamuelWebber.jpg",
-      "funImg": "images/classmates/SamuelWebber_fun.jpg",
-      "hired": false
-    },
-    {
       "id": 1,
       "firstName": "Alfonso",
       "lastName": "Miranda",
@@ -40,6 +12,20 @@
       "email": "gabmin21@hotmail.com",
       "proImg": "images/classmates/AlfonsoMiranda.jpg",
       "funImg": "images/classmates/AlfonsoMiranda_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 2,
+      "firstName": "Andrew",
+      "lastName": "Herring",
+      "reelThemIn": "It's Dangerous To Code Alone",
+      "bio": "“It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat. - Theodore Roosevelt",
+      "github": "https://github.com/Andrew-Herring" ,
+      "linkedIn":"https://www.linkedin.com/in/andrew-herring-065a85162/",
+      "portfolio":"http://www.andrew-herring.com" ,
+      "email": "andrewoherring@gmail.com",
+      "proImg": "images/classmates/AndrewHerring.jpg",
+      "funImg": "images/classmates/AndrewHerring_fun.jpg",
       "hired": true
     },
     {
@@ -278,6 +264,20 @@
       "email": "robbyhecht@gmail.com",
       "proImg": "images/classmates/RobbyHecht.jpg",
       "funImg": "images/classmates/RobbyHecht_fun.jpg",
+      "hired": true
+    },
+    {
+      "id": 20,
+      "firstName": "Samuel",
+      "lastName": "Webber",
+      "reelThemIn": "“The best thing about a boolean is even if you are wrong, you are only off by a bit” ― Unknown",
+      "bio": "I moved to Nashville in the Fall 2017 to attend a coding bootcamp. This has been a goal of mine since my first real experience of studying coding with my brother-in-law 4 years ago. I had experimented as a kid with CSS and HTML and my brother-in-law reminded me how challenging and fun it could be. It sparked a passion in me to creatively solve problems through coding. I wanted to study with people who could further my knowledge and prepare me with the tools to move into a career in coding. This is why I decided to take charge of my career and attend Nashville Software School.",
+      "github": "https://github.com/buffard" ,
+      "linkedIn":"https://www.linkedin.com/in/samuel-webber-808476120/",
+      "portfolio":"http://www.samuelwebber.com" ,
+      "email": "samuelwebber19@gmail.com",
+      "proImg": "images/classmates/SamuelWebber.jpg",
+      "funImg": "images/classmates/SamuelWebber_fun.jpg",
       "hired": true
     },
     {
